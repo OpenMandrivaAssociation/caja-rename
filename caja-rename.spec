@@ -8,6 +8,7 @@ URL:		https://github.com/tari01/caja-rename/
 Source:		https://github.com/tari01/caja-rename/archive/%{version}/%{name}-%{version}.tar.gz
 
 BuildRequires:	cmake
+BuildRequires:	cmake-extras
 BuildRequires:	intltool
 BuildRequires:	ninja
 BuildRequires:	pkgconfig(gtk+-3.0)
