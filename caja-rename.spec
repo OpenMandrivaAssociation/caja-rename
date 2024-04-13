@@ -1,6 +1,6 @@
 Summary:	Batch renaming extension for Caja
 Name:		caja-rename
-Version:	24.2.1
+Version:	24.4.1
 Release:	1
 License:	GPLv3
 Group:		Graphical desktop/Other
